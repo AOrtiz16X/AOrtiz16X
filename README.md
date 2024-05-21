@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AOrtiz16X
-- 👀 I’m interested in & currently learning Data Analytics
+- 👀 I’m interested in Data Analytics
